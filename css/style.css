@@ -39,6 +39,7 @@ body {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 15px;
+  margin-bottom: 20px;
 }
 .users__card {
   background-color: #fff;
